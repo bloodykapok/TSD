@@ -4,9 +4,9 @@ So sorry for some unconfirmed reasons, the original link given in ICNP 2017 Post
 
 https://github.com/bloodykapok/TSD/
 
-does not accept my uploading of the <TSD technical report>.
+does not accept my uploading of the \<TSD technical report\>.
 
-I leave here a Guide for the readers to download the <TSD technical report> in new link:
+I leave here a Guide for the readers to download the \<TSD technical report\> in new link:
 
 https://pan.baidu.com/s/1geQEpA7
 
